@@ -1,0 +1,29 @@
+
+=============================================
+>>> Test Case 1 (Standard Duplicates) (input1.txt)
+=============================================
+Total items: 8
+Unique items: 4
+Duplicate item: banana (3 occurrences)
+Duplicate item: apple (3 occurrences)
+
+=============================================
+>>> Test Case 2 (No Duplicates) (input2.txt)
+=============================================
+Total items: 4
+Unique items: 4
+No duplicate items found.
+
+=============================================
+>>> Test Case 3 (Empty File) (input3.txt)
+=============================================
+Total items: 1
+Unique items: 1
+No duplicate items found.
+
+=============================================
+>>> Test Case 4 (Mixed Case & Whitespace) (input4.txt)
+=============================================
+Total items: 5
+Unique items: 3
+Duplicate item: apple (3 occurrences)

@@ -1,0 +1,6 @@
+Apple  
+apple
+apple
+banana
+
+# Mixed  case / whitespace 
